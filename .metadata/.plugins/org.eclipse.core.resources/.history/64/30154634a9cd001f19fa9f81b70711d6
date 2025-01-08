@@ -1,0 +1,6 @@
+package com.stsdemo;
+
+public class Swimmer extends Olympian{
+	
+
+}

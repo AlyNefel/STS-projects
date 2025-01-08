@@ -1,0 +1,19 @@
+package com.stsdemo;
+
+public class Olympian {
+// attributes 
+	private String name;
+	private double energy;
+	
+	// empty constructor
+	public Olympian() {}
+	// constructor with attributes 
+	public Olympian(String name) {
+		
+		this.name = name;
+		this.energy=100.0;
+	}
+	
+	
+	
+}
